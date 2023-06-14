@@ -1,6 +1,6 @@
 {
    "proto":[
-         {"source":"source/dir/models/file4.proto","target":"target/models/file4.proto"},
-         {"source":"source/dir/public/file.proto","target":"target/public/file.proto"}
+         {"source":"source/dir/models/file4.proto","target":"target/models/file4.proto", "patch": true},
+         {"source":"source/dir/public/file.proto","target":"target/public/file.proto", "patch": false}
    ]
 }
