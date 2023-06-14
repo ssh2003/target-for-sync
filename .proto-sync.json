@@ -1,0 +1,10 @@
+{
+   "proto":[
+      {
+         "source/dir/models/file4.proto":"target/models/file4.proto"
+      },
+      {
+         "source/dir/public/file.proto":"target/public/file.proto"
+      }
+   ]
+}
